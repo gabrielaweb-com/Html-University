@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Arquivo padrão</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="card">
+      <div class="top"></div>
+
+      <div class="foto1">
+        <img
+          src="https://emojigraph.org/media/apple/woman-technologist_1f469-200d-1f4bb.png"
+          class="foto"
+          alt="Foto de Perfil"
+        />
+      </div>
+
+      <h1>Gabriela Favaretto</h1>
+      <h2>Estudante de Engenharia de Dados e IA</h2>
+
+      <p class="descricao">
+        Tenho interesse em atuar como Data Product Manager, unindo visão
+        orientada a dados, negócio e tecnologia. Possuo inglês avançado,
+        comunicação clara, aprendizado rápido e experiência em ambientes
+        dinâmicos.
+      </p>
+
+      <a
+        href="https://www.linkedin.com/in/gabriela-favaretto-8a5348300"
+        target="_blank"
+        class="botao"
+        >VISIT PROFILE</a
+      >
+
+      <div class="redes">
+        <a href="https://wa.me/5521967002003" target="_blank">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png"
+            alt="whatsapp"
+            class="logo"
+          />
+        </a>
+        <a href="https://instagram.com/gabifavarettoo" target="_blank">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png"
+            alt="instagram"
+            class="logo"
+          />
+        </a>
+        <a
+          href="https://www.linkedin.com/in/gabriela-favaretto-8a5348300"
+          target="_blank"
+        >
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png"
+            alt="linkedin"
+            class="logo"
+        /></a>
+      </div>
+    </div>
+  </body>
+</html>
