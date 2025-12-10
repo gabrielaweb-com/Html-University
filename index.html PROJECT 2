@@ -1,1 +1,64 @@
+!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Arquivo padrão</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <table>
+      <thead>
+        <tr>
+          <th>Nome</th>
+          <th>Cor</th>
+          <th>Descrição</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Maçã</td>
+          <td>Vermelho</td>
+          <td>São vermelhas</td>
+        </tr>
+        <tr class="cinza">
+          <td>Pêra</td>
+          <td>Verde</td>
+          <td>Fruta doce e suculenta.</td>
+        </tr>
+        <tr>
+          <td>Uva</td>
+          <td>Roxo / Verde</td>
+          <td>Cresce em cachos na videira.</td>
+        </tr>
+        <tr class="cinza">
+          <td>Laranja</td>
+          <td>Laranja</td>
+          <td>Famosa por seu teor de Vitamina C.</td>
+        </tr>
+        <tr>
+          <td>Banana</td>
+          <td>Amarelo</td>
+          <td>Rica em potássio e fácil de descascar.</td>
+        </tr>
+        <tr class="cinza">
+          <td>Kiwi</td>
+          <td>Verde</td>
+          <td>Tem uma textura aveludada por fora.</td>
+        </tr>
+        <tr>
+          <td>Ameixa</td>
+          <td>Roxo</td>
+          <td>É frequentemente usada para fazer compotas.</td>
+        </tr>
+        <tr class="cinza">
+          <td>Melancia</td>
+          <td>Vermelho</td>
+          <td>Ótima para hidratação no verão.</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
 
