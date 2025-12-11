@@ -1,0 +1,17 @@
+th {
+  text-decoration: underline;
+  color: white;
+  text-align: justify;
+}
+table {
+  border-collapse: collapse;
+  width: 600px;
+}
+
+thead {
+  background-color: black;
+}
+
+.cinza {
+  background-color: lightgray;
+}
