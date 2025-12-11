@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  background: lightgoldenrodyellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.card {
+  width: 320px;
+  background: black;
+  border-radius: 10px;
+  overflow: hidden;
+  color: white;
+  box-shadow: 0 8px 20px black;
+}
+
+.filme {
+  height: 200px;
+  background-image: url("https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.titulo {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 22px;
+  margin-bottom: 4px;
+}
+
+.detalhes {
+  font-size: 12px;
+  color: lightgray;
+  margin-bottom: 12px;
+}
+
+.summary1 {
+  font-size: 11px;
+  letter-spacing: 1px;
+  color: lightgray;
+  margin-bottom: 6px;
+}
+
+.summary2 {
+  font-size: 13px;
+  line-height: 1.5;
+  margin-bottom: 14px;
+}
+
+.elenco {
+  font-size: 11px;
+  color: lightgray;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+.botao {
+  display: inline-block;
+  padding: 8px 16px;
+  border: 2px solid darkgoldenrod;
+  color: darkgoldenrod;
+  text-decoration: none;
+  font-size: 12px;
+  border-radius: 6px;
+}
+
+.botao:hover {
+  background: darkgoldenrod;
+  color: black;
+}
+
+.enfeite {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-size: 18px;
+  color: burlywood;
+  margin-top: 18px;
+}
